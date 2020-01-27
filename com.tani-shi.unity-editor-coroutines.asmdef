@@ -1,5 +1,5 @@
 {
-    "name": "EditorCoroutines",
+    "name": "com.tani-shi.unity-editor-coroutines",
     "references": [],
     "includePlatforms": [
         "Editor"
@@ -8,7 +8,7 @@
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": []
 }
